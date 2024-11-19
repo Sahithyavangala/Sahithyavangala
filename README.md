@@ -1,14 +1,14 @@
-                                                                                 👋 Hi, I’m @Sahithyavangala
+                                           👋 Hi, I’m @Sahithyavangala
 
 
-                                                                                 
-                                            I'm a final year student at National Institute of Technology Hamirpur, Himachal Pradesh
+
+                                ABOUT ME -                                      
+                                  I'm a final year student at National Institute of Technology Hamirpur, Himachal Pradesh.
+                                  I'm currently learning Mobile development using angular and flutter.
+                                  I'm looking to collaborate on Open source or commercial projects.
+                                  You can reach me at sahithyavangala@gmail.com
+                                            
                                                                       
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 
